@@ -1,0 +1,10 @@
+# competition data and results are not part of the repository
+/data/
+*.csv
+*.xlsx
+*.xls
+*.RData
+*.Rhistory
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
